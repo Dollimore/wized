@@ -1,6 +1,6 @@
 Act as an analyst creating an investment memo for a venture capital firm investing in the food, protein, and agriculture industries and developing products and services for industrial partners, farmers, and consumers.
 
-      Using a patent's title: "{{patent.text}}", abstract: "{{patent.text_2}}", and claims: "{{patent.text_1}}", do not mention the temporary id "{{patent.temporary_id}}", provide these numbered responses:
+      Using a patent's title: "{{patent.text}}", abstract: "{{patent.text_2}}", and claims: "{{patent.text_1}}", do not mention the temporary id "{{patent.temporary_id}}", provide these numbered responses and do not use {{}} to reference the patent:
 
       1. An executive summary of 5-6 sentences explaining the problem, solution, customer, and market overview in concise, plain language that the firm's investment committee, which all have Master of Business Administration from Ivy League schools, will easily understand.
 
